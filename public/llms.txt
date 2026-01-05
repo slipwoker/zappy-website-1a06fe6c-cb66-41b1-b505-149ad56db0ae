@@ -1,51 +1,62 @@
-# Business — Generative Engine Optimization Map
+# בייקידיס העצמה פוגשת אפייה — Generative Engine Optimization Map
+
+> A חינוך והעצמה אישית business.
 
 ---
 
 ## Pages
 
 ### בית
-https://example.com
+https://bakeydis-empowerment-meets-bak.zappy5.app
 גלו את קורס דיגיטלי לאפייה המשלב העצמה אישית עם כישורי אפייה. הצטרפו לבייקידיס ותתחילו מסע מרגש של למידה ויצירה!
 
 ### אודות
-https://example.com/about
+https://bakeydis-empowerment-meets-bak.zappy5.app/about
 הכירו את הסיפור שמאחורי בייקידיס - קורס דיגיטלי לאפייה המשלב העצמה אישית. גלו את החזון, הערכים והמשימה שלנו.
 
 ### הקורסים שלנו
-https://example.com/courses
+https://bakeydis-empowerment-meets-bak.zappy5.app/courses
 גלו את מגוון קורסי האפייה הדיגיטליים של בייקידיס. קורס אפייה אונליין המשלב העצמה אישית לכל המשפחה.
 
 ### המלצות
-https://example.com/testimonials
+https://bakeydis-empowerment-meets-bak.zappy5.app/testimonials
 קראו המלצות אמיתיות ממשתתפים בקורס דיגיטלי לאפייה של בייקידיס. סיפורי הצלחה והעצמה אישית דרך אפייה.
 
 ### צור קשר
-https://example.com/contact
+https://bakeydis-empowerment-meets-bak.zappy5.app/contact
 צרו קשר עם בייקידיס לפרטים נוספים על קורס דיגיטלי לאפייה. נשמח לענות על כל שאלה ולעזור לכם להתחיל את המסע שלכם.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://bakeydis-empowerment-meets-bak.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://bakeydis-empowerment-meets-bak.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://bakeydis-empowerment-meets-bak.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About בייקידיס העצמה פוגשת אפייה
+בייקידיס העצמה פוגשת אפייה is a business in the חינוך והעצמה אישית industry.
+
+## Target Audience
+- הורים חובבי אפייה
+- סבים וסבתות יצירתיים
+
+## Industry
+חינוך והעצמה אישית
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://bakeydis-empowerment-meets-bak.zappy5.app/sitemap.xml
+- **Robots.txt**: https://bakeydis-empowerment-meets-bak.zappy5.app/robots.txt
